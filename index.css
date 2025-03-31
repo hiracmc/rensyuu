@@ -3,6 +3,9 @@
   background-color: #e6e8eb
   border-bottom: 20px solid #b1b2b5;
   text-align: center;
-  display: inline-block;
+}
+
+.caboh1-list-item {
+display: inline-block;
   list-style: none;
 }
