@@ -9,13 +9,13 @@ header {
 }
 header .headline{
     line-height: 100px;
-    float: left;
+    float: center;
     font-size: 30px;
     margin-left: 100px;
 }
 .nav-list {
     line-height: 100px;
-    float: left;
+    float: center;
     margin-left: 30px;
     list-style: none;
 }
