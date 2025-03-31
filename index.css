@@ -22,5 +22,5 @@ header .headline{
 .nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 0 50%;
+  margin: 0 50px;
 }
