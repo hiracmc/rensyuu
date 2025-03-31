@@ -5,6 +5,7 @@ header {
   padding: 15px 0;
   background-color: ##e6e8eb;
   color: white;
+  border-bottom: 10px solid #b1b2b5;
 }
 header .headline{
     line-height: 100px;
